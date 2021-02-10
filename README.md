@@ -1,2 +1,4 @@
 # python-api-challenge
-API HOMEWORK
+PYTHON API HOMEWORK
+
+WeatherPy & VacationPy folders
